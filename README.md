@@ -66,4 +66,3 @@ Test with authentication:
 ```bash
 curl -H "Authorization: Bearer <firebase-token>" http://localhost:8000/api/events
 ```
-
