@@ -160,7 +160,6 @@ The service is deployed to Cloud Run with:
 - Environment variables configured via deployment script
 - No VPC Connector needed (only forwards to Cloud Run services)
 
-See [../GCP_DEPLOYMENT_GUIDE.md](../GCP_DEPLOYMENT_GUIDE.md) for details.
 
 ## 🧪 Testing
 
